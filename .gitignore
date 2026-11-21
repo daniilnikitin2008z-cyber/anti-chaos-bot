@@ -1,0 +1,7 @@
+# Токен бота — НЕ ЗАЛИВАЙ на GitHub!
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
